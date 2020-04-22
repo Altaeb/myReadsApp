@@ -12,7 +12,7 @@ const shelv = props => (
             book={book}
             setValueHandler={props.setValueHandler}
             handleBookActions={props.handleBookActions}
-            key={book.title}
+            key={book.id}
           />
         ))
       ) : (
