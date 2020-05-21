@@ -1,7 +1,7 @@
 
 ## myReads
 
-### iOS Developer Nanodegree Project
+### React Developer Nanodegree Project
 
 This is a project for Udacity's React Fundamentals course. The starter code was taken from this repo:
 
